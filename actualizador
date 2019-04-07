@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Actualizando Lisa JR..."
+git pull https://github.com/pochigil/bashtrial

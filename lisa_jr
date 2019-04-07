@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "Actualizando Lisa JR..."
-git pull https://github.com/pochigil/bashtrial
-echo "Se actualizo correctamente"
+echo "Ejecutando Lisa Jr v1.0"
