@@ -1,4 +1,4 @@
 #!/bin/bash
-echo Actualizando Lisa JR...
+echo "Actualizando Lisa JR..."
 git pull https://github.com/pochigil/bashtrial
-echo Se actualizo correctamente
+echo "Se actualizo correctamente"
